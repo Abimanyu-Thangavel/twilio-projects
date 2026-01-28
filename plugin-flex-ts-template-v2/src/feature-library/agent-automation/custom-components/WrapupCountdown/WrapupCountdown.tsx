@@ -94,7 +94,7 @@ const WrapupCountdown = ({ task, channelDefinition }: OwnProps) => {
           helper={taskHelper}
         />
         <div>
-          Hello people
+          Hello people factana
         </div>
       </Text>
       <Text as="p" element="WRAPUP_HEADER_COUNTDOWN">
